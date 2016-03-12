@@ -1,0 +1,24 @@
+.Cat1{
+
+  /* para retardar la animacion */
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+
+  /* para que la animacion coja el centro de la imagen */
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+.Cat2{
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+.Cat1{
+  -webkit-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
